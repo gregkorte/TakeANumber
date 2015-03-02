@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeANumber", "TakeANumber\TakeANumber.csproj", "{4918BCB1-48BF-443A-8DEC-74D4331D478E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeANumber.Tests", "TakeANumber.Tests\TakeANumber.Tests.csproj", "{F322B18F-54EC-4891-8742-7CDDCE2F1399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4918BCB1-48BF-443A-8DEC-74D4331D478E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4918BCB1-48BF-443A-8DEC-74D4331D478E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4918BCB1-48BF-443A-8DEC-74D4331D478E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4918BCB1-48BF-443A-8DEC-74D4331D478E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F322B18F-54EC-4891-8742-7CDDCE2F1399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F322B18F-54EC-4891-8742-7CDDCE2F1399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F322B18F-54EC-4891-8742-7CDDCE2F1399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F322B18F-54EC-4891-8742-7CDDCE2F1399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
